@@ -2,6 +2,7 @@
 setlocal
 
 set "extension=.ncms"
+:: change that path if needed
 set "exePath=F:\nircmd-x64\nircmd-CLI.exe"
 set "description=Nircmd script"
 
